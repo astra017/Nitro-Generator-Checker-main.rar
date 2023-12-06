@@ -1,0 +1,17 @@
+Débian : c un systeme exploitation / se deplace que avec des commande il a aussi git bash
+étude :  lycée spé math+NSI étude cybersec / amster en cybercrime et cybersec / formation en autodidacte 
+
+adjoin d'une boite : par mois 8050euro + trading 15000euro
+
+site pour detect des faille
+
+commande : ls : tous voir 
+           cd: se deplacé
+           cd .. : se deplace de revenir en arriére
+           cd bin : répertoire d'un fichier
+           
+           
+
+
+                       
+           
